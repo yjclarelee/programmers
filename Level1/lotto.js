@@ -16,3 +16,10 @@ function solution(lottos, win_nums) {
   
   return answer;
 }
+
+function solution(lottos, win_nums) {
+  let win = [6, 6, 5, 4, 3, 2, 1];
+  let matches = lottos.filter(lotto => win_nums.includes(lotto)).length;
+  let blanks = lottos.filter(lotto => !lotto).length;
+  return [win[matches+blanks], win[matches]];
+}
