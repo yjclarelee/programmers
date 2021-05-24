@@ -29,6 +29,7 @@ String 조작
 - 자릿수 더하기(addDigits)
 - 문자열 다루기 기본(stringManipulation)
 - 직사각형 별 찍기(rectangleStar)
+- 문자열 내림차순으로 정렬하기(stringSort)
 - 문자열 내 p와 y의 개수(numOfPAndY)\
 filter method 사용
 
@@ -51,9 +52,13 @@ Math
 - 콜라츠 추측(collazNumToOne)
 - 평균 구하기(getMean)
 
+Regex
+- 신규 아이디 추천(newId)
+
 ## 단계 2
 Array loop
 - 영어 끝말잇기(wordChain)
+- 오픈채팅방(openChattingRoom)
 
 String 조작
 - 최댓값과 최솟값(minAndMax)
