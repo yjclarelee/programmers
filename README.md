@@ -63,3 +63,4 @@ Array loop
 String 조작
 - 최댓값과 최솟값(minAndMax)
 - 이상한 문자 만들기(makeWeirdWord)
+- 짝지어 제거하기(pairAndRemove)
